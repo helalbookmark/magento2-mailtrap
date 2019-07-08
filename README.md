@@ -7,7 +7,7 @@ Integrate [mailtrap.io](https://mailtrap.io) with Magento 2 to simplify e-mail t
 After installing Magento 2, run the following commands from your Magento 2 root directory:
 
 ```
-composer require codepeak/magento2-mailtrap
+composer require helalbookmark/magento2-mailtrap
 php bin/magento cache:flush
 ```
 
